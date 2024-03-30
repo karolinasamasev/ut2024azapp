@@ -22,10 +22,13 @@ main > h1 {
 
 .Capy {
  width: 500px;
- height: 300px
+ height: 300px;
+ display: flex;
+ margin-left: 30px
 }
 
 .CapyBaby {
  width: 500px;
- height: 300px
+ height: 300px;
+ display: flex;
 }
