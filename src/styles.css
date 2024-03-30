@@ -24,11 +24,12 @@ main > h1 {
  width: 500px;
  height: 300px;
  display: flex;
- margin-left: 30px
+ margin-left: 60px;
 }
 
 .CapyBaby {
  width: 500px;
  height: 300px;
  display: flex;
+ margin-left: 60px;
 }
